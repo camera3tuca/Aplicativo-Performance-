@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+carteira.db
+*.db
+cambio_cache.json
